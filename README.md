@@ -170,3 +170,5 @@ From the results, Linear Regression performs slightly better, especially in term
 However, both models have relatively low R² scores. This means that performance stats alone are not enough to fully explain a player’s market value.
 
 So, market value is probably influenced by other factors as well, like popularity, the league they play in, or transfer market conditions.
+
+Overall, the models provide a basic understanding of market value prediction, but further improvements could be made by including more features such as player position, team performance, and historical transfer data.
